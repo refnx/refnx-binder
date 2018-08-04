@@ -14,6 +14,5 @@ dependencies:
   - traitlets
   - Jupyter
   - IPython
-  - pip:
-    - tqdm
-    - corner
+  - tqdm
+  - corner
