@@ -2,7 +2,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - refnx
+  - refnx=0.1.6
   - pandas
   - xlrd
   - h5py
